@@ -1,0 +1,42 @@
+.incode {
+    border-radius: 5px; 
+    font-size: .95em;
+    font-weight: bold;
+    border: 1px solid #BCBEC0;
+    padding: 2px 5px;
+    font-family: Monaco,Consolas,"Andale  Mono","DejaVu Sans Mono", monospace;
+    font-style: normal;
+}
+
+q {
+    quotes: "«" "»";
+    font-family: serif;
+    font-style: italic;
+}
+
+h1 > a, h2 > a, h3 > a {
+    font-family: Impact !important;
+}
+
+.concept {
+    color: navy;
+    font-size: .85em;
+    font-style: normal !important; 
+    font-family: Impact;
+}
+h1, h2, h3 {
+    font-family: Impact;
+}
+
+h1 {
+    font-size: 30pt !important;
+}
+
+h2 {
+    font-size: 20pt !important;
+}
+
+h3 {
+    font-size: 17pt !important;
+}
+

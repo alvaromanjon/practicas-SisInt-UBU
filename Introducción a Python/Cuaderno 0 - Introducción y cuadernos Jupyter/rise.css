@@ -1,0 +1,56 @@
+.reveal .cell {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px !important;
+}
+
+
+.incode, kbd {
+    border-radius: 5px; 
+    font-size: .95em;
+    font-weight: bold;
+    border: 1px solid #BCBEC0;
+    padding: 1.5px 3px;
+    font-family: Monaco,Consolas,"Andale  Mono","DejaVu Sans Mono", monospace;
+    font-style: normal;
+    color: #555;
+}
+
+.reveal q {
+    quotes: "«" "»";
+    font-family: serif;
+    font-style: italic;
+}
+
+.concept {
+    color: navy;
+    font-size: .80em;
+    font-style: normal !important; 
+    font-family: Impact;
+}
+.reveal h1, .reveal h2, .reveal h3 {
+    font-family: Impact;
+}
+h1, h2, h3 {
+    font-family: Impact;
+}
+
+h1 {
+    font-size: 30pt !important;
+}
+
+h2 {
+    font-size: 20pt !important;
+}
+
+.rendered_html * + ul {
+    margin-top: .1em !important;
+}
+
+.reveal .rendered_html > h1:first-child,
+.reveal .rendered_html > h2:first-child,
+.reveal .rendered_html > h3:first-child
+{
+    margin-top: .1em !important;
+}
+
+/* [id^="slide"] { top: 20px; } */

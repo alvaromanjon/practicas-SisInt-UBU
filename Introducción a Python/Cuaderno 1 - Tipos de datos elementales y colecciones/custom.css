@@ -1,0 +1,109 @@
+body {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, FreeSerif, serif;
+    font-size: 16px !important;
+    line-height: 20px !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #565656;
+    font-family: sans-serif;
+}
+
+not(.reveal) .cell {
+    font-size: 16px !important;
+}
+div#notebook {
+    font-size: 16px; 
+}
+
+.incode, kbd, :not(pre) > code {
+    border-radius: 5px !important; 
+    font-size: .9em !important;
+    font-weight: bold;
+    border: 1px solid #BCBEC0 !important;
+    border: 1px solid rgb(15,132,132) !important;
+    padding: 1.2px 2px !important;
+    padding: 0.9px 2px !important;
+    padding-top: 0.8px !important; 
+    font-family: Monaco,Consolas,"Andale  Mono","DejaVu Sans Mono", monospace;
+    font-style: normal;
+    color: #555 !important;
+    color: inherit !important;
+    color: rgb(15,132,132) !important;
+    opacity: 0.7 !important;
+    background-color: #ddd4 !important;
+}
+
+q {
+    quotes: "«" "»";
+    font-family: serif;
+    font-style: italic;
+}
+
+.concept, .reveal .concept {
+    color: navy;
+    font-size: .80em;
+    font-style: normal !important; 
+    font-family: Impact;
+}
+h1, h2, h3 {
+    font-family: Impact;
+    font-weight: normal !important;
+}
+
+h1 {
+    font-size: 28pt !important;
+}
+
+h2 {
+    font-size: 20pt !important;
+}
+
+/* a { font-family: sans-serif; } */
+
+
+.jumbo {
+    background-color: navy; 
+    line-height: 1.3em; 
+    color: white; 
+    border-radius: 10px; 
+    padding: 48px 60px;
+}
+.reveal .jumbo {
+    color: white;
+}
+pre.cgocode, .card > pre.cgocode {
+    margin: 5px;
+    margin-right: 15%;
+    padding: 10px 15px;
+    color: #aaff08;
+    border-left: 1px solid #aaff08;
+    border-left-width: 5px;
+    border-radius: 5px; 
+    background-color: black;
+}
+
+.rendered_html * + ul, ul, ol {
+    margin-top: .5em !important; 
+}
+
+.label {
+    padding-top: 4px; 
+}
+
+.v {
+    text-align:center;
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+}
+
+.v > iframe {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}

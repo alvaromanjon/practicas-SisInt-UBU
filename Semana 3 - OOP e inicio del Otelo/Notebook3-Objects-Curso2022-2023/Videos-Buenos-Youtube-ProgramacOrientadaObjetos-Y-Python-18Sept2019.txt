@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=5Ohme4A2Weg
+https://www.youtube.com/watch?v=2UNrSiKEI8w
+
+https://www.youtube.com/watch?v=Y_SiIgxc-xI (primer vídeo en el que se escribe código explicando 
+"clase", "instancia, etc.)
+
+https://www.youtube.com/watch?v=x5CY8fVyYLo (Encapsulación de variables)
+https://www.youtube.com/watch?v=OU-e2uhoGxE (Encapsulación de métodos)
+https://www.youtube.com/watch?v=u_VbLsIyzRk
+https://www.youtube.com/watch?v=jMQQN9OxwVc
+https://www.youtube.com/watch?v=oe04X1B14YY
+https://www.youtube.com/watch?v=kV1cN_bqcSw
+https://www.youtube.com/watch?v=zH0VsRuD2ok
+https://www.youtube.com/watch?v=t93x-vnFvP4
+https://www.youtube.com/watch?v=nRieWujis4s
+https://www.youtube.com/watch?v=Zf9sN-w0BVE
+
+https://www.youtube.com/watch?v=t93x-vnFvP4 (Módulos en Python)

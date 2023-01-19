@@ -1,0 +1,81 @@
+body {
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, FreeSerif, serif;
+    font-size: 16px !important;
+    line-height: 20px !important;
+}
+
+not(.reveal) .cell {
+    font-size: 16px !important;
+}
+div#notebook {
+    font-size: 16px; 
+}
+
+.incode, kbd {
+    border-radius: 5px; 
+    font-size: .95em;
+    font-weight: bold;
+    border: 1px solid #BCBEC0;
+    padding: 1.2px 2px;
+    padding-top: 1.0px; 
+    font-family: Monaco,Consolas,"Andale  Mono","DejaVu Sans Mono", monospace;
+    font-style: normal;
+    color: #555;
+}
+
+q {
+    quotes: "«" "»";
+    font-family: serif;
+    font-style: italic;
+}
+
+.concept {
+    color: navy;
+    font-size: .80em;
+    font-style: normal !important; 
+    font-family: Impact;
+}
+h1, h2, h3 {
+    font-family: Impact;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 30pt !important;
+}
+
+h2 {
+    font-size: 20pt !important;
+}
+
+a { font-family: sans-serif; }
+
+
+.jumbo {
+    background-color: navy; 
+    line-height: 1.3em; 
+    color: white; 
+    border-radius: 10px; 
+    padding: 48px 60px;
+}
+.reveal .jumbo {
+    color: white;
+}
+pre.cgocode {
+    margin: 5px;
+    margin-right: 15%;
+    padding: 15px;
+    color: #aaff08;
+    border-left: 1px solid #aaff08;
+    border-left-width: 5px;
+    border-radius: 5px; 
+    background-color: black;
+}
+
+.rendered_html * + ul, ul, ol {
+    margin-top: 0em !important; 
+}
+
+.label {
+    padding-top: 4px; 
+}
