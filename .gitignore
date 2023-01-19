@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macOS,
 # Edit at https://www.toptal.com/developers/gitignore?templates=macOS,
 
-.pdf
+*.pdf
 
 ### macOS ###
 # General
